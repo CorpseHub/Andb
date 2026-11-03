@@ -1,0 +1,6 @@
+{
+  "name": "DriftMoods",
+  "description": "Free music. Zero ads. Drift on.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
